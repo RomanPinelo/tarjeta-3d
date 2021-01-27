@@ -17,7 +17,7 @@ José Román Pinelo Escobar
 
 ### Explicación
 
-Esta es la pantalla que muestra el fondo de la tarjeta, al hacer hover, la información y foto de perfil aparece de abajo hacia arriba. Si se mueve el cursor, la tarjeta tiene movimiento de forma que sigue al cursor:  
+Esta es la pantalla que muestra el fondo de la tarjeta, al hacer hover, la información y foto de perfil aparecen de abajo hacia arriba. Si se mueve el cursor, la tarjeta tiene movimiento de forma que sigue al cursor. También los elementos de la tarjeta se ven en 3D:  
 
 ![ss1](https://user-images.githubusercontent.com/71656431/106040438-151a2180-60a0-11eb-8e12-3711242a028f.jpg)
 
@@ -27,4 +27,4 @@ Al botón se le agregó un efecto de luz neón:
 
 En el siguiente link puedes ver la página funcionando: 
 
-https://romanpinelo.github.io/
+https://romanpinelo.github.io/tarjeta-3d/
